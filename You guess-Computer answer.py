@@ -17,7 +17,7 @@ while answer != guess:
     else:
         print("Too high")
         maxanswer = guess
-    guess = (int(input(f"Guess a number between {minanswer} and {maxanswer}: ")))
+    guess = (int(input(f"Now guess a number between {minanswer} and {maxanswer}: ")))
     attempts = attempts + 1
     Bounes = 1
 #------------------------------------------------------------------
