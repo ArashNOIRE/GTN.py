@@ -11,7 +11,7 @@ Bounes = 0
 #Guessing & Answering mechanism
 print (f"this is your number: {rnguess}")
 answer = input("my guess is right?")
-    # ^^^answer must be + or - or = .^^^
+    #answer var must be + or - or =
 while answer != "=":
     if answer == "+":
         minguess = rnguess
@@ -30,4 +30,4 @@ if bounes == 0:
     print("WOW I guessed it without any Try!")
 else:
     print(f"I guessed it in {attempts} attempts.")
-#Finish
+#Finish!
