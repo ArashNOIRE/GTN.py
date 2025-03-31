@@ -30,7 +30,7 @@
 ---
 # 🚀 نحوه استفاده
 - **ابتدا این مخزن را کلون کنید:**
-git clone https://github.com/username/game-collection.git
+git clone https://github.com/ArashNOIRE/Game_Collection.git
 - **وارد پوشه مخزن شوید:**
 cd game-collection
 - **فایل بازی مورد نظر را در ویندوز با Python یا در لینوکس‌ و مک با python3 اجرا کنید.**
